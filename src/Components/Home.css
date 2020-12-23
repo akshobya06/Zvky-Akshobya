@@ -1,0 +1,9 @@
+.backdrop {
+    background-color: 	#9932CC;
+    height: 100vh;
+    width: 100vw;
+}
+.boardHeader{
+    background-color: 	#8A2BE2;
+    color: white;
+}
